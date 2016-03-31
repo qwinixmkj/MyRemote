@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private int whether = 0;
     private String city = "";
     private int wind = 0;
-
+    private int windtest = 04;
 
 
     final Handler handler = new Handler();
